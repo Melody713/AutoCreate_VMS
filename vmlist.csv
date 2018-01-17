@@ -1,0 +1,4 @@
+businesses,application,cpu,memory,disk,system,ip,mask,gateway,dns,net,type,hostname,vmhost,datastore,resourcepool,folder
+test,invoke,2,2,0,linux,10.34.57.20,255.255.248.0,10.34.56.1,10.34.37.13,0,app,JFCSSATP5777,CD-VM-DMZ1,EQL-JS-CD-Vol-04,R-SA-IDC,test
+test,invoke,2,2,0,linux,10.34.57.21,255.255.248.0,10.34.56.1,10.34.37.13,0,app,JFCSSATP5778,CD-VM-DMZ1,EQL-JS-CD-Vol-05,R-SA-IDC,test
+test,invoke,2,2,0,linux,10.34.57.22,255.255.248.0,10.34.56.1,10.34.37.13,0,app,JFCSSATP5779,CD-VM-DMZ1,EQL-JS-CD-Vol-04,R-SA-IDC,test
